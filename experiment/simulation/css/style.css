@@ -1,27 +1,4 @@
 
-* {
-    margin: 0px;
-    padding: 0;
-}
-/*header section template styling*/
-
-#header {
-    border-bottom: 8px solid #ff6600;
-    font-family: 'Raleway', sans-serif;
-    width: 1890px;
-    top: 0;
-    min-width: 500px;
-    background-color: #fff!important;
-}
-
-#header img {
-    padding: 8px 8px 4px 32px;
-}
-
-h2 {
-    font-size: large;
-}
-
 
 #labName {
     float: right;
