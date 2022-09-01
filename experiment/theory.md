@@ -1,4 +1,4 @@
-## Bio-Medical Signal Processing Toolkit
+### <u>Bio-Medical Signal Processing Toolkit</u>
 <br>
 It is concerned with the representation of signals by a sequence of numbers or symbols and the processing of these signals. Digital signal processing and analog signal processing are subfields of signal processing. DSP includes subfields like: audio and speech signal processing, sonar and radar signal processing, sensor array processing, spectral estimation, statistical signal processing, digital image processing, signal processing for communications, control of systems, biomedical signal processing, seismic data processing, etc.<br>
 
